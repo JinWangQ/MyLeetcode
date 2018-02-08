@@ -17,6 +17,11 @@ var lengthOfLongestSubstring = function(s) {
     return ans;
 };
 
+//Using the silding window, keep the set slides through the string 
+//add character [j] when the [j](head) is not included in the set
+//delete character [i] when the [j] == [i]
+
+
 // this method can not be accepted because time limit exceed
 // /**
 //  * @param {string} s
