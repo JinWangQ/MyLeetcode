@@ -19,3 +19,4 @@
 |16|[3 Sum Closest](https://leetcode.com/problems/3sum-closest/)|[JavaScript](./src/16ThreeSumClosest/src.js)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JavaScript](./src/17LetterCombinationsofaPhoneNumber/src.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./src/20ValidParentheses/src.js)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./src/21MergeTwoSortedLists/src.js)|Easy|
