@@ -21,3 +21,5 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./src/19RemoveNthNodeFromEndofList/src.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./src/20ValidParentheses/src.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./src/21MergeTwoSortedLists/src.js)|Easy|
+|22|[Generate-Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./src/22GenerateParentheses/src.js)|Midium|
+
