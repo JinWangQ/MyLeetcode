@@ -23,3 +23,5 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./src/21MergeTwoSortedLists/src.js)|Easy|
 |22|[Generate-Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./src/22GenerateParentheses/src.js)|Midium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[JavaScript](./src/23MergekSortedLists/src.js)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[JavaScript](./src/24SwapNodesinPairs/src.js)|Midium|
+
