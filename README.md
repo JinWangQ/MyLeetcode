@@ -25,3 +25,4 @@
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[JavaScript](./src/23MergekSortedLists/src.js)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[JavaScript](./src/24SwapNodesinPairs/src.js)|Midium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[JavaScript](./src/25ReverseNodesink-Group/src.js)|Hard|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./src/26RemoveDuplicatesfromSortedArray/src.js)|Easy|
