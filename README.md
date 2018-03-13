@@ -24,4 +24,4 @@
 |22|[Generate-Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./src/22GenerateParentheses/src.js)|Midium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[JavaScript](./src/23MergekSortedLists/src.js)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[JavaScript](./src/24SwapNodesinPairs/src.js)|Midium|
-
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[JavaScript](./src/25ReverseNodesink-Group/src.js)|Hard|
