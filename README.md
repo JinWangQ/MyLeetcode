@@ -27,3 +27,4 @@
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[JavaScript](./src/25ReverseNodesink-Group/src.js)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./src/26RemoveDuplicatesfromSortedArray/src.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./src/27RemoveElement/src.js)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./src/28Implement_strStr()/src.js)|Easy|
