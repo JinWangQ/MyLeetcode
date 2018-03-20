@@ -21,10 +21,12 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./src/19RemoveNthNodeFromEndofList/src.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./src/20ValidParentheses/src.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./src/21MergeTwoSortedLists/src.js)|Easy|
-|22|[Generate-Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./src/22GenerateParentheses/src.js)|Midium|
+|22|[Generate-Parentheses](https://leetcode.com/problems/generate-parentheses/)|[JavaScript](./src/22GenerateParentheses/src.js)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[JavaScript](./src/23MergekSortedLists/src.js)|Hard|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[JavaScript](./src/24SwapNodesinPairs/src.js)|Midium|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[JavaScript](./src/24SwapNodesinPairs/src.js)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[JavaScript](./src/25ReverseNodesink-Group/src.js)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./src/26RemoveDuplicatesfromSortedArray/src.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./src/27RemoveElement/src.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./src/28Implement_strStr()/src.js)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[JavaScript](./src/29DivideTwoIntegers/src.js)|Medium|
+
