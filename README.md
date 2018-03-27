@@ -29,5 +29,6 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./src/27RemoveElement/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./src/28Implement_strStr()/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[JavaScript](./src/29DivideTwoIntegers/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./src/33SearchinRotatedSortedArray/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./src/35SearchInsertPosition/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 
