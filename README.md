@@ -35,3 +35,4 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./src/35SearchInsertPosition/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./src/36ValidSudoku/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[JavaScript](./src/37SudokuSolver/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[JavaScript](./src/38CountandSay/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
