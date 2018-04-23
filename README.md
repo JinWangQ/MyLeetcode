@@ -37,4 +37,5 @@
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[JavaScript](./src/37SudokuSolver/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[JavaScript](./src/38CountandSay/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[JavaScript](./src/39CombinationSum/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[JavaScript](./src/40CombinationSumII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JavaScript](./src/50Pow(xn)/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
