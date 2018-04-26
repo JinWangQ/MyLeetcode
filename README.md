@@ -40,4 +40,5 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[JavaScript](./src/40CombinationSumII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[JavaScript](./src/41FirstMissingPositive/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[JavaScript](./src/42TrappingRainWater/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[JavaScript](./src/43MultiplyStrings/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JavaScript](./src/50Pow(xn)/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
