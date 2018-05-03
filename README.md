@@ -43,4 +43,5 @@
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[JavaScript](./src/43MultiplyStrings/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[JavaScript](./src/45JumpGameII/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[JavaScript](./src/46Permutations/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[JavaScript](./src/47PermutationsII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JavaScript](./src/50Pow(xn)/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
