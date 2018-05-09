@@ -47,3 +47,4 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[JavaScript](./src/48RotateImage/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[JavaScript](./src/50Pow(xn)/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./src/53MaximumSubarray/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JavaScript](./src/54SpiralMatrix/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
