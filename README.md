@@ -50,3 +50,4 @@
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JavaScript](./src/54SpiralMatrix/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JavaScript](./src/55JumpGame/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JavaScript](./src/56MergeIntervals/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[JavaScript](./src/57InsertInterval/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
