@@ -49,3 +49,4 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./src/53MaximumSubarray/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JavaScript](./src/54SpiralMatrix/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[JavaScript](./src/55JumpGame/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[JavaScript](./src/56MergeIntervals/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
