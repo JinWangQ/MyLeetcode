@@ -61,3 +61,4 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./src/66PlusOne/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[JavaScript](./src/67AddBinary/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](./src/69Sqrtx/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./src/70ClimbingStairs/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
