@@ -60,3 +60,4 @@
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[JavaScript](./src/64MinimumPathSum/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./src/66PlusOne/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[JavaScript](./src/67AddBinary/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](./src/69Sqrtx/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
