@@ -65,3 +65,4 @@
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[JavaScript](./src/72EditDistance/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JavaScript](./src/73SetMatrixZeroes/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JavaScript](./src/74Searcha2DMatrix/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./src/75SortColors/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
