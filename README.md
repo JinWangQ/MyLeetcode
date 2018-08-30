@@ -70,3 +70,4 @@
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[JavaScript](./src/78Subsets/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[JavaScript](./src/79WordSearch/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[JavaScript](./src/80RemoveDuplicatesfromSortedArrayII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[JavaScript](./src/81SearchinRotatedSortedArrayII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
