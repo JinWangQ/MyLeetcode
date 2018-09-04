@@ -73,3 +73,4 @@
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[JavaScript](./src/81SearchinRotatedSortedArrayII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[JavaScript](./src/82RemoveDuplicatesfromSortedListII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./src/83RemoveDuplicatesfromSortedList/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[JavaScript](./src/84LargestRectangleinHistogram/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
