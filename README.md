@@ -79,3 +79,4 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./src/88MergeSortedArray/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)|[JavaScript](./src/89GrayCode/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[JavaScript](./src/90SubsetsII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[JavaScript](./src/91DecodeWays/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
