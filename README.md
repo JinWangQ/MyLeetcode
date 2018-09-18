@@ -82,4 +82,5 @@
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[JavaScript](./src/91DecodeWays/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[JavaScript](./src/92ReverseLinkedListII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[JavaScript](./src/93RestoreIPAddresses/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JavaScript](./src/94BinaryTreeInorderTraversal/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 
