@@ -11,9 +11,10 @@
  */
 /**
  * the trick is to consider in-order traverse(LNR)
- * since when traversing a BST using LNR, the sequence is acending
+ * since when traversing a BST using LNR, the sequence is ascending
  * and there are only two nodes swtiched,
- * when we find where there is not acending, there should be a switch.
+ * when we find where there is not ascending, there should be a
+ switch.
  *
  * e.g
  * [6,3,4,5,2]
