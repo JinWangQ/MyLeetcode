@@ -92,3 +92,4 @@
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./src/101SymmetricTree/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./src/102BinaryTreeLevelOrderTraversal/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JavaScript](./src/103BinaryTreeZigzagLevelOrderTraversal/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./src/104MaximumDepthofBinaryTree/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
