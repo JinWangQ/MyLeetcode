@@ -10,7 +10,7 @@
  * @return {boolean}
  */
 /**
- * The key for recursive is to find a pattern for one element and can
+ * The key for recursive algorithm is to find a pattern for one element and can
  * be used for all the other elements.
  */
 var isBalanced = function(root) {
