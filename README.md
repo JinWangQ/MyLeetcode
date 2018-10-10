@@ -98,3 +98,4 @@
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[JavaScript](./src/107BinaryTreeLevelOrderTraversalII/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JavaScript](./src/108ConvertSortedArraytoBinarySearchTree/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[JavaScript](./src/109ConvertSortedListtoBinarySearchTree/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[JavaScript](./src/110BalancedBinaryTree/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
