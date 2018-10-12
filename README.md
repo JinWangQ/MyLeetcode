@@ -100,3 +100,4 @@
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|[JavaScript](./src/109ConvertSortedListtoBinarySearchTree/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[JavaScript](./src/110BalancedBinaryTree/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[JavaScript](./src/111MinimumDepthofBinaryTree/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](./src/112PathSum/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
