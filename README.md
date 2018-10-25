@@ -109,3 +109,4 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JavaScript](./src/118PascalsTriangle/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[JavaScript](./src/119PascalsTriangleII/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[JavaScript](./src/120Triangle/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./src/121BestTimetoBuyandSellStock/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
