@@ -112,6 +112,7 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./src/121BestTimetoBuyandSellStock/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./src/112BestTimetoBuyandSellStockII/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[JavaScript](./src/123BestTimetoBuyandSellStockIII/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[JavaScript](./src/124BinaryTreeMaximumPathSum/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./src/125ValidPalindrome/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./src/136SingleNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[JavaScript](./src/137SingleNumberII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
