@@ -1,7 +1,7 @@
 /**
  * @param {number} n
  * @return {number[]}
- * the trick is current i XOR i >> i
+ * the trick is current i XOR i >> 1
  */
 var grayCode = function(n) {
 	let res = [];
