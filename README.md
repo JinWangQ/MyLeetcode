@@ -117,6 +117,7 @@
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[JavaScript](./src/128LongestConsecutiveSequence/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[JavaScript](./src/129SumRoottoLeafNumbers/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[JavaScript](./src/130SurroundedRegions/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[JavaScript](./src/131PalindromePartitioning/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./src/136SingleNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[JavaScript](./src/137SingleNumberII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./src/141LinkedListCycle/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
