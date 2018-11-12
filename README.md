@@ -120,6 +120,7 @@
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[JavaScript](./src/131PalindromePartitioning/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[JavaScript](./src/132PalindromePartitioningII/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[JavaScript](./src/134GasStation/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|135|[Candy](https://leetcode.com/problems/Candy/)|[JavaScript](./src/135Candy/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[JavaScript](./src/136SingleNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[JavaScript](./src/137SingleNumberII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./src/141LinkedListCycle/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
