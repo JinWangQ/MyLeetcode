@@ -31,6 +31,7 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./src/28Implement_strStr()/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[JavaScript](./src/29DivideTwoIntegers/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[JavaScript](./src/30SubstringwithConcatenationofAllWords/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[JavaScript](./src/32LongestValidParentheses/src.js)|![#f03c15](https://placehold.it/15/D9534F/000000?text=+)Hard|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./src/33SearchinRotatedSortedArray/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./src/35SearchInsertPosition/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./src/36ValidSudoku/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
