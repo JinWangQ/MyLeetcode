@@ -14,8 +14,8 @@ var climbStairs = function(n) {
     if (n == 2) return 2;
 
     let res = 0,
-        one_step_before = 2,
-        two_steps_before = 1;
+        one_step_before = 2, // starting from 3rd step, one step before, there are 2 ways
+        two_steps_before = 1;// starting from 3rd step, two steps before, there are 1 ways
 
     for (let i = 2; i < n; i++) {
         res = one_step_before + two_steps_before;
