@@ -137,3 +137,4 @@
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[JavaScript](./src/227BasicCalculatorII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[JavaScript](./src/260SingleNumberIII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./src/344ReverseString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JavaScript](./src/345ReverseVowelsofaString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
