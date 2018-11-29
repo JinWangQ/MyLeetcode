@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @return {boolean}
  */
+// Use Map low performance
 // var containsDuplicate = function(nums) {
 //     if(nums.length < 2) return false;
 //     let dic = new Map();
@@ -11,6 +12,8 @@
 //     }
 //     return false;
 // };
+// 
+// Use Set high performance
 const containsDuplicate = nums => {
 	if (nums.length < 2) return false;
 	let s = new Set(nums);
