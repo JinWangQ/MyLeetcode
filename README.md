@@ -140,6 +140,7 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./src/217ContainsDuplicate/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[JavaScript](./src/227BasicCalculatorII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[JavaScript](./src/260SingleNumberIII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](./src/268MissingNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./src/344ReverseString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JavaScript](./src/345ReverseVowelsofaString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./src/383RansomNote/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
