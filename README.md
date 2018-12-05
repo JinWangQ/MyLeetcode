@@ -139,6 +139,7 @@
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[JavaScript](./src/216CombinationSumIII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./src/217ContainsDuplicate/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[JavaScript](./src/227BasicCalculatorII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./src/242ValidAnagram/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[JavaScript](./src/260SingleNumberIII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](./src/268MissingNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./src/344ReverseString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
