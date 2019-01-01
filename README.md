@@ -152,6 +152,7 @@
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JavaScript](./src/345ReverseVowelsofaString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./src/383RansomNote/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./src/387FirstUniqueCharacterinaString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[JavaScript](./src/414ThirdMaximumNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[JavaScript](./src/434NumberofSegmentsinaString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |443|[String Compression](https://leetcode.com/problems/string-compression/)|[JavaScript](./src/443StringCompression/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[JavaScript](./src/459RepeatedSubstringPattern/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
