@@ -131,6 +131,7 @@
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[JavaScript](./src/152MaximumProductSubarray/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[JavaScript](./src/153FindMinimuminRotatedSortedArray/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[JavaScript](./src/155MinStack/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[JavaScript](./src/160IntersectionofTwoLinkedLists/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[JavaScript](./src/162FindPeakElement/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[JavaScript](./src/165CompareVersionNumbers/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[JavaScript](./src/167TwoSumII-Inputarrayissorted/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
