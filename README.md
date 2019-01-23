@@ -151,6 +151,7 @@
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[JavaScript](./src/216CombinationSumIII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./src/217ContainsDuplicate/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[JavaScript](./src/219ContainsDuplicateII/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./src/226InvertBinaryTree/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[JavaScript](./src/227BasicCalculatorII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[JavaScript](./src/228SummaryRanges/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[JavaScript](./src/229MajorityElementII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
