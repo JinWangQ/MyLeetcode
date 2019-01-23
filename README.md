@@ -156,6 +156,7 @@
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[JavaScript](./src/228SummaryRanges/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[JavaScript](./src/229MajorityElementII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JavaScript](./src/230KthSmallestElementinaBST/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[JavaScript](./src/231PowerofTwo/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./src/242ValidAnagram/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[JavaScript](./src/260SingleNumberIII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](./src/268MissingNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
