@@ -163,6 +163,7 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](./src/234PalindromeLinkedList/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[JavaScript](./src/235LowestCommonAncestorofaBinarySearchTree/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./src/242ValidAnagram/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JavaScript](./src/257BinaryTreePaths/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[JavaScript](./src/260SingleNumberIII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](./src/268MissingNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./src/283MoveZeroes/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
