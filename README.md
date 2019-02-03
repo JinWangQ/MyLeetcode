@@ -166,6 +166,7 @@
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JavaScript](./src/257BinaryTreePaths/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./src/258AddDigits/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[JavaScript](./src/260SingleNumberIII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](./src/263UglyNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](./src/268MissingNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./src/283MoveZeroes/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[JavaScript](./src/287FindtheDuplicateNumber/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
