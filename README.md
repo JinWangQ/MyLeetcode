@@ -168,6 +168,7 @@
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[JavaScript](./src/260SingleNumberIII/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](./src/263UglyNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](./src/268MissingNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](./src/278FirstBadVersion/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./src/283MoveZeroes/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[JavaScript](./src/287FindtheDuplicateNumber/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./src/344ReverseString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
