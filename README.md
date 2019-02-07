@@ -171,6 +171,7 @@
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](./src/278FirstBadVersion/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./src/283MoveZeroes/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[JavaScript](./src/287FindtheDuplicateNumber/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](./src/290WordPattern/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./src/344ReverseString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JavaScript](./src/345ReverseVowelsofaString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./src/383RansomNote/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
