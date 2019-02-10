@@ -172,6 +172,7 @@
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./src/283MoveZeroes/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[JavaScript](./src/287FindtheDuplicateNumber/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](./src/290WordPattern/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)|[JavaScript](./src/292NimGame/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[JavaScript](./src/326PowerofThree/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./src/344ReverseString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JavaScript](./src/345ReverseVowelsofaString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
