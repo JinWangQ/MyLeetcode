@@ -175,6 +175,7 @@
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[JavaScript](./src/292NimGame/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[JavaScript](./src/303RangeSumQuery-Immutable/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[JavaScript](./src/326PowerofThree/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[JavaScript](./src/342PowerofFour/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./src/344ReverseString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JavaScript](./src/345ReverseVowelsofaString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./src/383RansomNote/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
