@@ -181,6 +181,7 @@
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[JavaScript](./src/349IntersectionofTwoArrays/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./src/350IntersectionofTwoArraysII/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[JavaScript](./src/367ValidPerfectSquare/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[JavaScript](./src/371SumofTwoIntegers/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./src/383RansomNote/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./src/387FirstUniqueCharacterinaString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[JavaScript](./src/414ThirdMaximumNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
