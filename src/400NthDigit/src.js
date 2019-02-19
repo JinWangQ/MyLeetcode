@@ -3,13 +3,16 @@
  * @return {number}
  */
 /**
- * step 1. n has how many digits
+ * step 1. the number n located has how many digits
  * 0 - 9 9 * 1, 1 digit
  * 10 - 99 90 * 2, 2 digits
  * 100 - 999 900 * 3, 3 digits
  */
 /**
- * step 2.
+ * step 2. the number n located
+ */
+/**
+ * step 3. find out n
  */
 
 var findNthDigit = function(n) {
