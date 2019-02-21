@@ -188,6 +188,7 @@
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[JavaScript](./src/400NthDigit/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[JavaScript](./src/401BinaryWatch/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[JavaScript](./src/404SumofLeftLeaves/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[JavaScript](./src/405ConvertaNumbertoHexadecimal/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[JavaScript](./src/414ThirdMaximumNumber/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[JavaScript](./src/434NumberofSegmentsinaString/src.js)|![#f03c15](https://placehold.it/15/5CB85C/000000?text=+)Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[JavaScript](./src/442FindAllDuplicatesinanArray/src.js)|![#f03c15](https://placehold.it/15/F0AD4E/000000?text=+)Medium|
